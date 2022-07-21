@@ -1,2 +1,7 @@
-hello 111
-hello 222
+git init
+git add .
+git add file.txt
+git commit
+git status
+git log
+git ls-files

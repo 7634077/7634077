@@ -1,0 +1,16 @@
+{
+    "manifest_version":2,
+    "name":"qExt",
+    "version":"1.0",
+
+    "description": "An extension to present a random famous quote!",
+
+    "browser_action":{
+        "defaulte_icon":"icon.png",
+        "defaulte_popus":"popup.html"
+    },
+    
+    "permissions":[
+        "http://api.forismatic.com/*"
+    ]
+}

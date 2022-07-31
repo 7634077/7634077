@@ -5,3 +5,6 @@ git commit
 git status
 git log
 git ls-files
+git branch ver1
+git branch
+git checkout ver2

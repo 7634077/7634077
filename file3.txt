@@ -8,3 +8,6 @@ git ls-files
 git branch ver1
 git branch
 git checkout ver2
+git remote -v
+git remote add origin "http..."
+got push origin HEAD
